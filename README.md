@@ -6,6 +6,7 @@
 ![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/exploit.png)
 
 生成的序列化文件在项目根目录下
+
 ![image](https://github.com/KpLi0rn/ShiroVulnEnv/blob/main/images/exploit2.png)
 
 ### 步骤
