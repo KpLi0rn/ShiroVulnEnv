@@ -1,5 +1,7 @@
 # ShiroVulnEnv
 
+博客文章中的环境：http://wjlshare.com/archives/1545
+
 ### 介绍
 文章的漏洞环境，利用代码都在 test/java 下
 
