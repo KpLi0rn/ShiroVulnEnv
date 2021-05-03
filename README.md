@@ -1,6 +1,7 @@
 # ShiroVulnEnv
 
 博客文章中的环境：http://wjlshare.com/archives/1545
+增加了 CommonsBeanutils 和 Tomcat 通用的回显 payload
 
 ### 介绍
 文章的漏洞环境，利用代码都在 test/java 下
